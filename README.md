@@ -1,4 +1,4 @@
-# Clonación de la interfaz de Google creado con HTML y CSS3 en el bootcamp Tecnolochicas PRO
+# Clonación de la interfaz de Google creado con HTML5 y CSS3 en el bootcamp Tecnolochicas PRO
 
 
 ## **ÍNDICE**
